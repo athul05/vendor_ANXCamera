@@ -22,3 +22,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     ANXCamera
+
+BOARD_SEPOLICY_DIRS += vendor/ANXCamera/sepolicy/
